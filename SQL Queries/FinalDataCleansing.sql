@@ -1,0 +1,2 @@
+DELETE FROM Amazon
+WHERE Date = (SELECT MIN(Date) FROM Amazon);
