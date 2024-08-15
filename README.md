@@ -253,8 +253,6 @@ Our data is now ready for Tableau to connect.
 
 ## Building the Dashboard
 
-Filtering the five year range 2018 - 2022 inclusive.
-
 The following views were created:
 
 - Moving Average SMA50, SMA200, and Close Prices
