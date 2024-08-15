@@ -1,4 +1,4 @@
-# StockPriceDashboard
+# stock-price-dashboard
 [Tableau Public Link](https://public.tableau.com/app/profile/krshirkoohi/viz/StockPriceDashboard_17187501544320/Dashboard)
 
 ![Dashboard](https://github.com/krshirkoohi/StockPriceDashboard/assets/72894688/ae9a033e-ec94-45a2-b3e6-14ff62200bdf)
